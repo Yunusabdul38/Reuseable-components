@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import { CiHeart, CiSearch } from "react-icons/ci";
 import { CiShoppingCart } from "react-icons/ci";
 import { CiMenuFries } from "react-icons/ci";

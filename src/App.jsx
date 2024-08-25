@@ -1,9 +1,6 @@
-import NavigationBar from "./components/nav-bar";
-
 export default function App() {
   return (
     <div className="">
-      <NavigationBar navStyle="bg-gray-500"/>
       <p className="mt-24">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque,
         explicabo. Nesciunt consequuntur numquam veritatis officia animi illum
