@@ -1,6 +1,9 @@
+import LeftNavigationBar from "./components/Nav/left-nav-bar";
+
 export default function App() {
   return (
-    <div className="">
+    <header className="">
+      <LeftNavigationBar/>
       <p className="mt-24">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque,
         explicabo. Nesciunt consequuntur numquam veritatis officia animi illum
@@ -15,7 +18,7 @@ export default function App() {
         totam repellendus quisquam reprehenderit ipsum ducimus, et excepturi
         dicta maxime. Molestiae.
       </p>
-    </div>
+    </header>
     
   );
 }
